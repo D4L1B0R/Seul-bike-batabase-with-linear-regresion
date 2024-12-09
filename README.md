@@ -1,1 +1,1 @@
-# Analiza-i-optimizacija-sistema-iznajmljivanja-bicikala-oslanjaju-i-se-na-vi-estruku-regresiju
+# Analiza i optimizacija sistema iznajmljivanja bicikala oslanjajući se na višestruku linearnu regresiju
